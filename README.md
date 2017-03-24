@@ -32,7 +32,7 @@ Files in the project:
 
 ---
 ### Dependencies
-Download the [dataset of German traffic signs](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset), unzip it and place the `.p` files in directory `./datasets`
+Download the [zip file](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/5898cd6f_traffic-signs-data/traffic-signs-data.zip) with a dataset of German traffic signs, unzip it and place the `.p` files in directory `./datasets`
 
 The following Python packages need to be installed:
  - cv2
@@ -42,7 +42,7 @@ The following Python packages need to be installed:
  - sklearn
  - tensorflow
 
-Usage of a GPU supported by Tensorflow is advisable. Computation takes a couple of minute on an NVIDIA GTX 970.
+Usage of a GPU supported by Tensorflow is advisable. Computation takes a couple of minutes on an NVIDIA GTX 970.
 
 ---
 ### Data Set Summary & Exploration
